@@ -1,2 +1,9 @@
 print("HAPPY BIRTHDAY")
-print("MERRY CHRISTMAS")
+print("MERRY CHRISTMAS hi hi hi ")
+hi
+hi
+hi
+hi
+hi
+hi
+hi
