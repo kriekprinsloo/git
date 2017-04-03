@@ -1,0 +1,2 @@
+print("HAPPY BIRTHDAY")
+print("MERRY CHRISTMAS")
